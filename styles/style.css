@@ -2,7 +2,7 @@
  *
  * Module: HTML/CSS
  * Lesson: 1
- * 
+ *
  */
 
  :root {
@@ -121,7 +121,8 @@ p {
 
 .hero {
   background-image: url("header-bike.jpg");
-  background-color: var(--grey-light);
+  /*background-color: var(--grey-light);*/
+  background-color:red;
 }
 
 .hero h1 {
