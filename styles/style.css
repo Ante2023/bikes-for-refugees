@@ -121,8 +121,7 @@ p {
 
 .hero {
   background-image: url("header-bike.jpg");
-  /*background-color: var(--grey-light);*/
-  background-color:red;
+  background-color: var(--grey-light);
 }
 
 .hero h1 {
